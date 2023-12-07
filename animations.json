@@ -1,0 +1,14 @@
+[
+    {
+        "anim": "sit",
+        "variation": 4
+    },
+    {
+        "anim": "lay",
+        "variation": 4
+    },
+    {
+        "anim": "groundsit",
+        "variation": 4
+    }
+]
